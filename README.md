@@ -13,8 +13,8 @@ To get started with Kevo, visit our [website](https://kevopay.com/) for more inf
 
 ## Installation
 
-- **Kevo User**: [Download Kevo User APK](https://github.com/your-username/kevo/releases/download/v1.0.0/kevo-user.apk)
-- **Kevo Partner**: [Download Kevo Partner APK](https://github.com/your-username/kevo/releases/download/v1.0.0/kevo-partner.apk)
+- **Kevo User**: [Download Kevo User APK](https://github.com/Kevo-crypto/apps/releases/download/v1.0.0/kevo.apk)
+- **Kevo Partner**: [Download Kevo Partner APK](https://github.com/Kevo-crypto/apps/releases/download/v1.0.0/kevo_partner.apk)
 
 ## Documentation
 
@@ -26,6 +26,3 @@ We are constantly working to improve Kevo and would love to hear your feedback. 
 
 Thank you for choosing Kevo for your cryptocurrency money transfer needs!
 
----
-
-*Note: Replace "your-website.com" with your actual website URL, and "your-username" with your GitHub username.*
